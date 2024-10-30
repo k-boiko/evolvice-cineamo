@@ -1,0 +1,68 @@
+{
+    "_total_items": 2870,
+    "_page": 1,
+    "_page_count": 287,
+    "_links": {
+        "self": {
+            "href": "https://api.cineamo.com/cinemas?page=1"
+        },
+        "next": {
+            "href": "https://api.cineamo.com/cinemas?page=2"
+        },
+        "last": {
+            "href": "https://api.cineamo.com/cinemas?page=287"
+        }
+    },
+    "_embedded": {
+        "cinemas": [
+            {
+                "id": 1,
+                "name": "Cineworld Dettelbach",
+                "shortName": "Cineworld Dettelbach",
+                "slug": "cineworld-dettelbach",
+                "description": "Das Cineworld im Mainfrankenpark ist Unterfrankens größtes Multiplexkino mit 2789 Sitzplätzen, verteilt auf neun Säle. Diese sind mit Komfortsesseln, großzügigem Reihenabstand und modernster Multiplex-Technik ausgestattet, so dass Sie Filme in Top-Qualität entspannt genießen können. Für beste Bild- und Tonqualität sorgen Digital-Projektoren der neuesten Generation sowie digitale Tonsysteme (Dolby 7.1) mit 6 bzw. 8 getrennten Sound-Kanälen. Ein gestochen scharfes Bild und ein multidimensionaler Sound entführen Sie in die Welt des Films und lassen Sie das Geschehen hautnah erleben. Neben den neun Kinosälen verfügt das Cineworld über ein Open-Air-Kino, das sich auf der Dachterrasse befindet. Der Spielplan des Erlebniskinos ist sehr vielseitig und deckt vom Blockbuster bis zum Arthausfilm alle Genres ab.",
+                "phone": "",
+                "street": "Mainfrankenpark 21",
+                "postalCode": "97337",
+                "city": "Dettelbach",
+                "state": "Bayern",
+                "stateAbbr": "BY",
+                "country": "Germany",
+                "countryCode": "DE",
+                "currencyCode": "EUR",
+                "longitude": 10.068217277527,
+                "latitude": 49.777996063232,
+                "distance": null,
+                "imageUrl": "admin/uploads/cinema/cinema-5c332e71c5e172-99541441.jpg",
+                "logoUrl": null,
+                "profileImageRef": "0689b277-fa0a-4b74-999e-e8ff9de8ee89",
+                "profileImageUrl": "https://cdn.cineamo.com/cinema-profile-image/0689b277-fa0a-4b74-999e-e8ff9de8ee89",
+                "logoImageRef": null,
+                "logoImageUrl": null,
+                "logoWideImageRef": null,
+                "logoWideImageUrl": null,
+                "priceTablePdfRef": null,
+                "priceTablePdfUrl": null,
+                "primaryColor": null,
+                "instagramLink": "https://www.instagram.com/cineworld.mainfrankenpark/",
+                "facebookLink": "https://www.facebook.com/cineworld.mainfrankenpark",
+                "ticketSystemId": "146",
+                "ticketSystem": "international_showtimes",
+                "email": "kontakt.cineworld@cineplex.de",
+                "isActive": true,
+                "isCustomer": true,
+                "cinemaConfigurationId": 50,
+                "showtimesUpdated": "2024-10-30T05:10:18Z",
+                "isFavoritedCinema": null,
+                "isFavorite": null,
+                "hasMarketingAssistantBooked": true,
+                "cineamoTrailerConfirmedDatetime": "2024-10-01T08:23:05Z",
+                "_links": {
+                    "self": {
+                        "href": "https://api.cineamo.com/cinemas/1"
+                    }
+                }
+            }
+        ]
+    }
+}
