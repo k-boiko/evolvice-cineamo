@@ -38,7 +38,7 @@ const MoviesList: React.FC<MoviesListProps> = ({ initialResponse }) => {
         return (
           <div
             key={movie.id}
-            className="flex flex-col h-full rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300"
+            className="flex flex-col h-full rounded-lg"
           >
             <Image src={image} alt={movie.title} className='rounded-lg' width='225' height='337'/>
             <div className="flex-grow flex flex-col justify-between">
